@@ -1,5 +1,7 @@
+<script setup>
+import Hero from "~/components/hero/index.vue";
+</script>
+
 <template>
-  <div>
-    <h1>Index</h1>
-  </div>
+  <Hero />
 </template>
