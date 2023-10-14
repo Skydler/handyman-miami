@@ -1,5 +1,5 @@
 <template>
-  <section class="text-center">
+  <section class="text-center mt-10">
     <h4 class="text-[#14183E] font-bold text-3xl sm:text-4xl font-volkhov">
           Our Services
     </h4>
