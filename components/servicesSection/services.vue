@@ -3,7 +3,7 @@
     <h4 class="text-[#14183E] font-bold text-3xl sm:text-4xl font-volkhov">
           Our Services
     </h4>
-    <div class="grid grid-cols-1 items-center text-center sm:grid-cols-2 lg:grid-cols-4 p-8 sm:p-0 gap-8 sm:gap-16 my-4 sm:my-12">
+    <div class="grid grid-cols-1 items-center text-center sm:grid-cols-2 lg:grid-cols-4 p-8 sm:p-0 gap-8 sm:gap-16 my-4 sm:my-12 mx-20">
       <!-- Card 1-->
       <div class="relative group">
         <div class="space-y-3 cursor-pointer mt-2 p-12 sm:px-6 sm:py-12 group-hover:rounded-3xl group-hover:z-20 group-hover:bg-white group-hover:drop-shadow-2xl">
