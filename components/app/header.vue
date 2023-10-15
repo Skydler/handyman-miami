@@ -59,7 +59,7 @@
             Pricing
           </NuxtLink>
           <NuxtLink
-            to="#"
+            to="/contact"
             class="text-sm font-bold text-gray-800 hover:text-blue-400"
           >
             Contact Us
