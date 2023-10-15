@@ -13,7 +13,7 @@ const cards = [
     imgAltText: "Tiling Image",
     title: "Flooring",
     description:
-      "Installation, repair, and maintenance of a wide range of flooring materials for residential and commercial properties.",
+      "Installation, repair, and maintenance of a wide range of flooring materials.",
   },
   {
     imgPath: "resources/repairs.png",
