@@ -46,7 +46,9 @@
           <NuxtLink to="" class="text-3xl text-gray-800 hover:text-blue-400">
             Pricing
           </NuxtLink>
-          <NuxtLink to="" class="text-3xl text-gray-800 hover:text-blue-400">
+          <NuxtLink
+            to="/contact"
+            class="text-3xl text-gray-800 hover:text-blue-400">
             Contact Us
           </NuxtLink>
         </ul>

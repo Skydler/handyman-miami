@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-pink-50 inset-x-0 bottom-0">
+  <footer class="bg-pink-50 inset-x-0 bottom-0 ">
     <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
       <div class="sm:flex sm:items-center sm:justify-between">
         
