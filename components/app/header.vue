@@ -36,32 +36,24 @@
         </div>
 
         <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
-        <ul
-          :class="showMenu ? 'flex' : 'hidden'"
-          class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0"
-        >
-          <NuxtLink
-            to="/"
-            class="text-sm font-bold text-gray-800 hover:text-blue-400"
-          >
+        <ul :class="showMenu ? 'flex' : 'hidden'" class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-20 md:mt-0">
+          <NuxtLink to="/" class="text-3xl text-gray-800 hover:text-blue-400">
             Home
           </NuxtLink>
-          <NuxtLink
-            to="#"
-            class="text-sm font-bold text-gray-800 hover:text-blue-400"
-          >
+          <NuxtLink to="/AboutUs" class="text-3xl text-gray-800 hover:text-blue-400">
             About Us
           </NuxtLink>
-          <NuxtLink
-            to="#"
-            class="text-sm font-bold text-gray-800 hover:text-blue-400"
-          >
+          <NuxtLink to="" class="text-3xl text-gray-800 hover:text-blue-400">
             Pricing
           </NuxtLink>
+<<<<<<< HEAD
           <NuxtLink
             to="/contact"
             class="text-sm font-bold text-gray-800 hover:text-blue-400"
           >
+=======
+          <NuxtLink to="" class="text-3xl text-gray-800 hover:text-blue-400">
+>>>>>>> main
             Contact Us
           </NuxtLink>
         </ul>
