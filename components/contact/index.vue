@@ -1,13 +1,10 @@
 <template>
     <section class="bg-[#282828]" id="contact">
-      <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
-        <div class="mb-4">
+      <div class="mx-auto max-w-7xl p-10">
+        <div class="">
           <div class="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
-            <p class="text-base font-semibold uppercase tracking-wide text-blue-600 dark:text-blue-200">
-              Contact
-            </p>
             <h2 class="font-heading mb-4 font-bold tracking-tight text-gray-900 dark:text-white text-3xl sm:text-5xl">
-              Get in Touch
+              Contact Us!
             </h2>
           </div>
         </div>
@@ -64,7 +61,7 @@
           </div>
           <div>
             <div class="card bg-gray-100 rounded">
-              <iframe class="rounded p-2 w-full" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d18635.865506281618!2d-80.25322164140346!3d25.785292165128148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHandyman%20team%20miami!5e0!3m2!1sen!2sar!4v1697408632400!5m2!1sen!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe class="rounded p-2 w-full mt-2" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d18635.865506281618!2d-80.25322164140346!3d25.785292165128148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHandyman%20team%20miami!5e0!3m2!1sen!2sar!4v1697408632400!5m2!1sen!2sar" width="300" height="350" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
         </div>

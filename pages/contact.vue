@@ -3,5 +3,5 @@ import Contact from "~/components/contact/index.vue";
 </script>
 
 <template>
-    <Contact/>
+    <Contact class="mb-auto"/>
 </template>
