@@ -23,7 +23,7 @@ const props = defineProps({
         <p>{{ props.quote }}</p>
       </blockquote>
       <figcaption class="mt-10">
-        <img
+        <NuxtImg
           class="mx-auto h-10 w-10 rounded-full"
           :src="props.imgPath"
           :alt="props.name"
