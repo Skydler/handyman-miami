@@ -43,13 +43,10 @@
           <NuxtLink to="/" class="text-xl text-gray-800 hover:text-blue-400">
             Home
           </NuxtLink>
-          <NuxtLink
-            to="/AboutUs"
-            class="text-xl text-gray-800 hover:text-blue-400"
-          >
+          <NuxtLink to="#" class="text-xl text-gray-800 hover:text-blue-400">
             About Us
           </NuxtLink>
-          <NuxtLink to="" class="text-xl text-gray-800 hover:text-blue-400">
+          <NuxtLink to="#" class="text-xl text-gray-800 hover:text-blue-400">
             Pricing
           </NuxtLink>
           <NuxtLink
