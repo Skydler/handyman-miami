@@ -5,7 +5,7 @@
         class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center"
       >
         <div class="flex items-center justify-between">
-          <router-link
+          <NuxtLink
             to="/"
             class="text-xl font-bold text-gray-800 md:text-2xlhover:text-blue-400"
           >
@@ -17,7 +17,7 @@
               />
               <h4 class="ms-2 lg:mt-5">Handyman Team by A&R</h4>
             </div>
-          </router-link>
+          </NuxtLink>
 
           <!-- Mobile menu button -->
           <div @click="showMenu = !showMenu" class="flex md:hidden">
@@ -43,11 +43,11 @@
           <NuxtLink to="/" class="text-xl text-gray-800 hover:text-blue-400">
             Home
           </NuxtLink>
-          <NuxtLink to="#" class="text-xl text-gray-800 hover:text-blue-400">
+          <NuxtLink
+            to="/about"
+            class="text-xl text-gray-800 hover:text-blue-400"
+          >
             About Us
-          </NuxtLink>
-          <NuxtLink to="#" class="text-xl text-gray-800 hover:text-blue-400">
-            Pricing
           </NuxtLink>
           <NuxtLink
             to="/contact"
