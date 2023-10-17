@@ -7,6 +7,7 @@ import FinalMessage from "~/components/end_message/index.vue";
 </script>
 
 <template>
+  <title>Home</title>
   <Hero />
   <Services />
   <Works />

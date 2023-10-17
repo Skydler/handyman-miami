@@ -23,9 +23,8 @@
                   </svg>
                 </div>
                 <div>
-                  <h3 class="text-lg font-medium text-gray-900 dark:text-white">Our Address</h3>
-                  <p class="text-gray-100">1230 Maecenas Street Donec Road</p>
-                  <p class="text-gray-100">New York, EEUU</p>
+                  <h3 class="text-lg font-medium text-gray-900 dark:text-white">Location</h3>
+                  <p class="text-gray-100"> We offer our services throughout the state of Florida </p>
                 </div>
               </li>
               <li class="flex items-center space-x-4">
@@ -39,8 +38,9 @@
                 </div>
                 <div>
                   <h3 class="text-lg font-medium text-gray-900 dark:text-white">Contact</h3>
-                  <p class="text-gray-100">Mobile: +1 (123) 456-7890</p>
-                  <p class="text-gray-100">Mail: tailnext@gmail.com</p>
+                  <p class="text-gray-100">(786) 634-8023  </p>
+                  <p class="text-gray-100">(206) 636-2456  </p>
+                  <p class="text-gray-100">E-Mail: Handymanteam28@gmail.com</p>
                 </div>
               </li>
               <li class="flex items-center space-x-4">
@@ -61,7 +61,7 @@
           </div>
           <div>
             <div class="card bg-gray-100 rounded">
-              <iframe class="rounded p-2 w-full mt-2" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d18635.865506281618!2d-80.25322164140346!3d25.785292165128148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHandyman%20team%20miami!5e0!3m2!1sen!2sar!4v1697408632400!5m2!1sen!2sar" width="300" height="350" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe class="rounded p-2 w-full mt-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7241652.012888893!2d-83.804601!3d27.5946799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c1766591562abf%3A0xf72e13d35bc74ed0!2sFlorida%2C%20USA!5e0!3m2!1sen!2sar!4v1697573793765!5m2!1sen!2sar" width="300" height="350" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
         </div>
