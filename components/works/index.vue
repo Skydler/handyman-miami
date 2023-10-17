@@ -13,6 +13,10 @@ const works = [
     imgPath: "/resources/flooring.jpg",
     title: "Flooring and painting",
   },
+  {
+    imgPath: "/resources/window-repair-example.jpg",
+    title: "Window repair and door installation",
+  },
 ];
 </script>
 
