@@ -53,7 +53,7 @@
             to="/contact"
             class="text-xl text-gray-800 hover:text-blue-400"
           >
-            Contact Us
+            Contact
           </NuxtLink>
         </ul>
       </nav>

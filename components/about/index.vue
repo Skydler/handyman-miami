@@ -9,17 +9,14 @@
     </div>
     <div class="flex justify-center">
       <div class="w-full lg:w-1/2 m-5">
-        <p class="text-center">
-          <strong> 🔧At Handyman Team, We're More Than Just Handymen </strong>
-        </p>
-        <p class="text-center">
-          <strong>-</strong>
-        </p>
-        <p class="mb-5 text-center">
-          <strong> We're Your Trusted Home Improvement Partners!🔨 </strong>
+        <p class="mb-5 text-center text-2xl">
+          <strong>
+            At Handyman Team, We're More Than Just Handymen - We're Your Trusted
+            Home Improvement Partners!
+          </strong>
         </p>
 
-        <h2 class="text-[#14183E] font-bold text-2xl font-volkhov mt-5">
+        <h2 class="text-[#14183E] font-bold text-xl font-volkhov mt-5">
           Who We Are:
         </h2>
         <p>
@@ -28,7 +25,7 @@
           reputation for excellence.
         </p>
 
-        <h2 class="text-[#14183E] font-bold text-2xl font-volkhov mt-5">
+        <h2 class="text-[#14183E] font-bold text-xl font-volkhov mt-5">
           Our Mission:
         </h2>
         <p>
@@ -39,7 +36,7 @@
           same level of care and dedication.
         </p>
 
-        <h2 class="text-[#14183E] font-bold text-2xl font-volkhov mt-5">
+        <h2 class="text-[#14183E] font-bold text-xl font-volkhov mt-5">
           Why Choose Us:
         </h2>
         <ul>
@@ -59,7 +56,7 @@
           </li>
         </ul>
 
-        <h2 class="text-[#14183E] font-bold text-2xl font-volkhov mt-5">
+        <h2 class="text-[#14183E] font-bold text-xl font-volkhov mt-5">
           Our Services:
         </h2>
         <p>
