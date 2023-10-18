@@ -12,27 +12,14 @@
         </div>
       </div>
     </div>
-    <div class="grid grid-cols-1 xl:grid-cols-3 gap-8 items-center"> 
-      <!-- Columna 1-->
-      <div class="grid grid-cols-1 xl:grid-cols-2 col-span-2 items-center card bg-[#282828] m-5 rounded p-5 min-h-[95%] max-h-[95%]">
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-start"> 
+      <div class="flex flex-col card m-5 bg-gradient-to-r from-[#282828] to-gray-900 rounded p-5">
         <div>
           <h2 class="font-heading mb-4 font-bold tracking-tight text-gray-900 dark:text-white text-3xl sm:text-5xl">
             Contact Information
           </h2>
           <ul class="mt-6 grid grid-cols-1">
-            <li class="flex items-center space-x-4">
-              <div class="w-10 h-10 bg-gray-100 text-gray-900 rounded-full flex items-center justify-center">
-                <!-- Icon for address -->
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6">
-                  <path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0"></path>
-                  <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0z"></path>
-                </svg>
-              </div>
-              <div>
-                <h3 class="text-lg font-medium text-gray-100">Location</h3>
-                <p class="text-gray-100"> We offer our services throughout the state of Florida </p>
-              </div>
-            </li>
             <li class="flex items-center space-x-4">
               <div class="w-10 h-10 bg-gray-100 text-gray-900 rounded-full flex items-center justify-center">
                 <!-- Icon for contact -->
@@ -90,8 +77,35 @@
           </div>
         </div>
       </div>
-      
-      
+      <!-- Fin columna 1 -->
+      <div class="flex flex-col card m-5 bg-gradient-to-r from-gray-900 to-[#282828] rounded p-5">
+        <div>
+          <h2 class="font-heading mb-4 font-bold tracking-tight text-gray-900 dark:text-white text-3xl sm:text-5xl">
+            Our Location
+          </h2>
+          <ul class="mt-6 grid grid-cols-1">
+            <li class="flex items-center space-x-4">
+              <div class="w-10 h-10 bg-gray-100 text-gray-900 rounded-full flex items-center justify-center">
+                <!-- Icon for address -->
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6">
+                  <path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0"></path>
+                  <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0z"></path>
+                </svg>
+              </div>
+              <div>
+                <h3 class="text-lg font-medium text-gray-100">Location</h3>
+                <p class="text-gray-100"> We offer our services throughout the state of Florida </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="mt-5 md:mt-0 ">
+          <div class="card bg-gray-100 rounded">
+              <iframe class="rounded p-2 w-full mt-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7241652.012888893!2d-83.804601!3d27.5946799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c1766591562abf%3A0xf72e13d35bc74ed0!2sFlorida%2C%20USA!5e0!3m2!1sen!2sar!4v1697573793765!5m2!1sen!2sar" height="600vh" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </div>
+
     </div>
   </section>
 </template>
