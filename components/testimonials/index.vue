@@ -34,7 +34,7 @@ const testimonials = [
         What people say about us
       </h2>
     </div>
-    <Carousel :autoplay="3000" :wrap-around="true">
+    <Carousel :wrap-around="true">
       <Slide v-for="(testimonial, index) in testimonials" :key="index">
         <div
           class="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:px-8"
