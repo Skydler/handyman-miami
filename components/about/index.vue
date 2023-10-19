@@ -2,7 +2,7 @@
   <section class="mb-auto font-poppins">
     <div class="p-5 sm:p-20 my-2 bg-[#282828] text-center">
       <h2
-        class="font-heading mb-4 font-bold tracking-tight text-gray-900 dark:text-white text-3xl sm:text-5xl"
+        class="font-heading mb-4 font-bold tracking-tight text-gray-900 text-3xl sm:text-5xl"
       >
         About us
       </h2>
