@@ -6,7 +6,7 @@ import Testimonials from "~/components/testimonials/index.vue";
 import FinalMessage from "~/components/end_message/index.vue";
 
 useSeoMeta({
-  title: "Handyman Team",
+  title: "Handyman",
 });
 </script>
 

@@ -23,12 +23,15 @@ const works = [
 <template>
   <section class="p-6 sm:p-20 font-poppins">
     <div class="text-center mb-20">
-      <h2 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
+      <h1 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
         Our recent works
-      </h2>
+      </h1>
     </div>
-    <div class="flex justify-around flex-wrap mt-5 ">
-      <div v-for="item in works" class="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110">
+    <div class="flex justify-around flex-wrap mt-5">
+      <div
+        v-for="item in works"
+        class="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
+      >
         <Card :img="item.imgPath" :title="item.title" />
       </div>
     </div>

@@ -30,9 +30,9 @@ const testimonials = [
 <template>
   <section class="mt-10 p-6 sm:p-20 font-poppins">
     <div class="text-center mb-20">
-      <h2 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
+      <h1 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
         What people say about us
-      </h2>
+      </h1>
     </div>
     <Carousel :wrap-around="true">
       <Slide v-for="(testimonial, index) in testimonials" :key="index">

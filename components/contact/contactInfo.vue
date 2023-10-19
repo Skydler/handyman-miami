@@ -36,7 +36,7 @@ function sendEmail() {
               <IconEmail />
             </span>
 
-            <h2 class="mt-4 text-base font-medium text-gray-800">Email</h2>
+            <h1 class="mt-4 text-base font-medium text-gray-800">Email</h1>
             <p class="mt-2 text-sm text-gray-500">We answer quickly!</p>
             <p class="mt-2 text-sm text-[#14183E]">
               <NuxtLink
@@ -56,7 +56,7 @@ function sendEmail() {
               <IconWhatsapp />
             </span>
 
-            <h2 class="mt-4 text-base font-medium text-gray-800">Live chat</h2>
+            <h1 class="mt-4 text-base font-medium text-gray-800">Live chat</h1>
             <p class="mt-2 text-sm text-gray-500">Our team is here to help.</p>
             <p class="mt-2 text-sm text-[#14183E]">
               <NuxtLink
@@ -75,7 +75,7 @@ function sendEmail() {
               <IconMarker />
             </span>
 
-            <h2 class="mt-4 text-base font-medium text-gray-800">Location</h2>
+            <h1 class="mt-4 text-base font-medium text-gray-800">Location</h1>
             <p class="mt-2 text-sm text-gray-500">
               We offer our services throughout <br />
               the state of Florida (USA)
@@ -89,7 +89,7 @@ function sendEmail() {
               <IconContact />
             </span>
 
-            <h2 class="mt-4 text-base font-medium text-gray-800">Our phones</h2>
+            <h1 class="mt-4 text-base font-medium text-gray-800">Our phones</h1>
             <p class="mt-2 text-sm text-[#14183E]">(206) 636-2456 &nbsp</p>
             <p class="mt-2 text-sm text-[#14183E]">(786) 634-8023 &nbsp</p>
           </div>

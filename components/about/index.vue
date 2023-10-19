@@ -1,11 +1,11 @@
 <template>
   <section class="mb-auto font-poppins">
     <div class="p-5 sm:p-20 my-2 bg-[#282828] text-center">
-      <h2
+      <h1
         class="font-heading mb-4 font-bold tracking-tight text-white text-3xl sm:text-5xl"
       >
         About us
-      </h2>
+      </h1>
     </div>
     <div class="flex justify-center">
       <div class="w-full lg:w-1/2 m-5">

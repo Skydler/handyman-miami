@@ -25,15 +25,15 @@ useHead({
 
 useSeoMeta({
   description:
-    "Welcome to Handyman Team – Your Trusted Florida Home Improvement Experts. We offer top-quality handyman services across the Sunshine State. From small repairs to complete home renovations, our skilled team is dedicated to enhancing the beauty and functionality of your home. Choose us for reliable, customer-centric services and turn your house into your dream home. Contact us today for a consultation or quote!",
+    "Welcome to Handyman Team - Your Florida Home Improvement Experts. From small repairs to complete renovations, we're here to enhance your home. Contact us today for quality service and your dream home!",
   ogTitle: "Handyman Team",
   ogDescription:
-    "Welcome to Handyman Team – Your Trusted Florida Home Improvement Experts. We offer top-quality handyman services across the Sunshine State. From small repairs to complete home renovations, our skilled team is dedicated to enhancing the beauty and functionality of your home. Choose us for reliable, customer-centric services and turn your house into your dream home. Contact us today for a consultation or quote!",
+    "Welcome to Handyman Team - Your Florida Home Improvement Experts. From small repairs to complete renovations, we're here to enhance your home. Contact us today for quality service and your dream home!",
   ogImage: "/resources/handyman-wb.jpg",
   ogUrl: "https://handyman-team.vercel.app/",
   twitterTitle: "Handyman Team",
   twitterDescription:
-    "Welcome to Handyman Team – Your Trusted Florida Home Improvement Experts. We offer top-quality handyman services across the Sunshine State. From small repairs to complete home renovations, our skilled team is dedicated to enhancing the beauty and functionality of your home. Choose us for reliable, customer-centric services and turn your house into your dream home. Contact us today for a consultation or quote!",
+    "Welcome to Handyman Team - Your Florida Home Improvement Experts. From small repairs to complete renovations, we're here to enhance your home. Contact us today for quality service and your dream home!",
   twitterImage: "/resources/handyman-wb.jpg",
   twitterCard: "summary",
 });

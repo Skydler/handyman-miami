@@ -34,9 +34,9 @@ const cards = [
 
 <template>
   <section class="text-center mt-10 p-6 sm:p-20 font-poppins">
-    <h2 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
+    <h1 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
       Our Services
-    </h2>
+    </h1>
     <div
       class="grid grid-cols-1 items-center text-center sm:grid-cols-2 lg:grid-cols-4 p-8 sm:p-0 gap-8 sm:gap-16 my-4 sm:my-12"
     >

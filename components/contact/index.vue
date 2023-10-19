@@ -5,11 +5,11 @@ import ContactInfo from "./contactInfo.vue";
 <template>
   <section class="mb-auto font-poppins">
     <div class="p-5 sm:p-20 my-2 bg-[#282828] text-center">
-      <h2
+      <h1
         class="font-heading mb-4 font-bold tracking-tight text-white text-3xl sm:text-5xl"
       >
         Contact Us!
-      </h2>
+      </h1>
     </div>
 
     <div class="flex justify-center">
@@ -28,7 +28,7 @@ import ContactInfo from "./contactInfo.vue";
 
   <section>
     <div class="flex justify-center flex-col items-center my-10">
-      <h2 class="text-[#14183E] font-bold text-3xl">Chat with us!</h2>
+      <h1 class="text-[#14183E] font-bold text-3xl">Chat with us!</h1>
       <NuxtLink href="https://wa.me/+12066362456" rel="external">
         <NuxtImg
           class="rounded"
