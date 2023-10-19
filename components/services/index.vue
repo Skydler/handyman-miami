@@ -18,7 +18,7 @@ const cards = [
   {
     imgPath: "resources/repairs.png",
     imgAltText: "Repairs",
-    title: "Plumbing",
+    title: "Repairs",
     description:
       "Our skilled team ensures top-notch, reliable solutions for all your repair and maintenance requirements.",
   },

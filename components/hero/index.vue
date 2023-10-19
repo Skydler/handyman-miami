@@ -17,6 +17,7 @@
     </div>
     <div>
       <NuxtImg
+        preload
         src="/resources/handyman-hero.jpg"
         width="773"
         height="505"

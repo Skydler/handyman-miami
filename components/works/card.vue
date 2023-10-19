@@ -8,7 +8,7 @@ const props = defineProps({
 <template>
   <div class="max-w-sm rounded overflow-hidden shadow-lg mb-5">
     <NuxtImg
-      class="w-full"
+      class="w-full w-[400px] h-[600px]"
       :src="props.img"
       :alt="props.title"
       width="400"
