@@ -8,6 +8,7 @@
           <NuxtLink
             to="/"
             class="text-xl font-bold text-gray-800 md:text-2xlhover:text-blue-400"
+            rel="next"
           >
             <div class="flex">
               <img
@@ -40,18 +41,24 @@
           :class="showMenu ? 'flex' : 'hidden'"
           class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-20 md:mt-0"
         >
-          <NuxtLink to="/" class="text-xl text-gray-800 hover:text-blue-400">
+          <NuxtLink
+            to="/"
+            class="text-xl text-gray-800 hover:text-blue-400"
+            rel="next"
+          >
             Home
           </NuxtLink>
           <NuxtLink
             to="/about"
             class="text-xl text-gray-800 hover:text-blue-400"
+            rel="next"
           >
             About Us
           </NuxtLink>
           <NuxtLink
             to="/contact"
             class="text-xl text-gray-800 hover:text-blue-400"
+            rel="next"
           >
             Contact
           </NuxtLink>

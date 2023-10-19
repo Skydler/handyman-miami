@@ -29,15 +29,16 @@ import ContactInfo from "./contactInfo.vue";
   <section>
     <div class="flex justify-center flex-col items-center my-10">
       <h2 class="text-[#14183E] font-bold text-3xl">Chat with us!</h2>
-      <a href="https://wa.me/+12066362456">
+      <NuxtLink href="https://wa.me/+12066362456" rel="external">
         <NuxtImg
           class="rounded"
           src="resources/whatsapp_qr.png"
           alt="Qr code for Whatsapp"
+          title="Qr code for Whatsapp"
           height="300"
           width="300"
         />
-      </a>
+      </NuxtLink>
     </div>
     <div class="rounded-lg h-96">
       <iframe

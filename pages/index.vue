@@ -4,10 +4,13 @@ import Services from "~/components/services/index.vue";
 import Works from "~/components/works/index.vue";
 import Testimonials from "~/components/testimonials/index.vue";
 import FinalMessage from "~/components/end_message/index.vue";
+
+useSeoMeta({
+  title: "Handyman Team",
+});
 </script>
 
 <template>
-  <title>Home</title>
   <Hero />
   <Services />
   <Works />

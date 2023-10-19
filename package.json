@@ -13,11 +13,13 @@
     "@nuxt/devtools": "latest",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "nuxt": "^3.7.4",
+    "nuxt-simple-sitemap": "^3.4.0",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
   },
   "dependencies": {
     "@nuxt/image": "^1.0.0-rc.3",
+    "@nuxtjs/robots": "^3.0.0",
     "vue3-carousel-nuxt": "^1.1.0"
   }
 }

@@ -27,6 +27,9 @@ const props = defineProps({
           class="mx-auto h-10 w-10 rounded-full"
           :src="props.imgPath"
           :alt="props.name"
+          :title="props.name"
+          height="40"
+          width="40"
         />
         <div class="mt-4 flex items-center justify-center space-x-3 text-base">
           <div class="font-semibold text-gray-900">{{ props.name }}</div>

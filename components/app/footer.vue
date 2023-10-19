@@ -8,6 +8,9 @@
               class="h-10 w-10 opacity-70 me-5"
               src="resources/Handyman.png"
               alt="Logo Smaller"
+              title="Logo Smaller"
+              height="40"
+              width="40"
             />
             Handyman Team © 2023. All Rights Reserved.
           </span>

@@ -39,9 +39,13 @@ function sendEmail() {
             <h2 class="mt-4 text-base font-medium text-gray-800">Email</h2>
             <p class="mt-2 text-sm text-gray-500">We answer quickly!</p>
             <p class="mt-2 text-sm text-[#14183E]">
-              <a :href="'mailto:' + handymanEmail" target="_blank">
+              <NuxtLink
+                :href="'mailto:' + handymanEmail"
+                target="_blank"
+                rel="external"
+              >
                 {{ handymanEmail }}
-              </a>
+              </NuxtLink>
             </p>
           </div>
 
@@ -55,9 +59,12 @@ function sendEmail() {
             <h2 class="mt-4 text-base font-medium text-gray-800">Live chat</h2>
             <p class="mt-2 text-sm text-gray-500">Our team is here to help.</p>
             <p class="mt-2 text-sm text-[#14183E]">
-              <a href="https://wa.me/+12066362456" target="_blank"
+              <NuxtLink
+                href="https://wa.me/+12066362456"
+                target="_blank"
+                rel="external"
                 >Start new chat
-              </a>
+              </NuxtLink>
             </p>
           </div>
 

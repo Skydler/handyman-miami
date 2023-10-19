@@ -11,6 +11,7 @@ const props = defineProps({
       class="w-full w-[400px] h-[600px]"
       :src="props.img"
       :alt="props.title"
+      :title="props.title"
       width="400"
       height="600"
       fit="cover"

@@ -1,8 +1,11 @@
 <script setup>
 import Contact from "~/components/contact/index.vue";
+
+useSeoMeta({
+  title: "Contact",
+});
 </script>
 
 <template>
-    <title>Contact Us</title>
-    <Contact class="mb-auto"/>
+  <Contact class="mb-auto" />
 </template>
