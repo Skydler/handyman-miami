@@ -30,6 +30,7 @@ const props = defineProps({
           :title="props.name"
           height="40"
           width="40"
+          sizes="sm:40px"
         />
         <div class="mt-4 flex items-center justify-center space-x-3 text-base">
           <div class="font-semibold text-gray-900">{{ props.name }}</div>

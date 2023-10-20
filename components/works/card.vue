@@ -15,6 +15,7 @@ const props = defineProps({
       width="400"
       height="600"
       fit="cover"
+      sizes="sm:100vw md:50vw lg:400px"
     />
     <div class="px-6 py-2 text-center">
       <p class="text-gray-700 text-base">{{ props.title }}</p>

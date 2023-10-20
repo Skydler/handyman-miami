@@ -19,6 +19,7 @@ const props = defineProps({
         :title="props.imgAltText"
         height="80"
         width="80"
+        sizes="sm:80px"
       />
       <p class="text-[#1E1D4C] font-semibold">{{ props.title }}</p>
       <p class="text-s text-gray-500">{{ props.description }}</p>

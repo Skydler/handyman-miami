@@ -37,6 +37,7 @@ import ContactInfo from "./contactInfo.vue";
           title="Qr code for Whatsapp"
           height="300"
           width="300"
+          sizes="sm:300px"
         />
       </NuxtLink>
     </div>

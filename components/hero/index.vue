@@ -23,7 +23,7 @@
         height="505"
         alt="handyman working"
         title="handyman working"
-        sizes="sm:100vw md:50vw lg:400px"
+        sizes="sm:100vw md:50vw lg:800px"
         class="rounded-xl shadow-2xl"
       />
     </div>

@@ -11,6 +11,7 @@
               title="Logo Smaller"
               height="40"
               width="40"
+              sizes="sm:40px"
             />
             Handyman Team © 2023. All Rights Reserved.
           </span>
